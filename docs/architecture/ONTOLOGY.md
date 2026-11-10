@@ -237,5 +237,5 @@ UI and reports must label types; derived values link to engine runs.
 ## Related documents
 
 - [DESIGN_PROPOSAL_CONTRACT.md](./DESIGN_PROPOSAL_CONTRACT.md)  
-- [DATA_SOURCES.md](./DATA_SOURCES.md)  
+- [DATA_SOURCES.md](../data/DATA_SOURCES.md)  
 - [ARCHITECTURE.md](./ARCHITECTURE.md)  

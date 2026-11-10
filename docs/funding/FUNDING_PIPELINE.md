@@ -28,7 +28,7 @@ Live opportunity tracker for PDI. Amounts, deadlines, and eligibility **must be 
 | **Scale** | ~$50M pool; projects often $500K–$2M |
 | **Deadline (noted)** | 29 November 2026 (verify on portal) |
 | **Fit** | City-scale land-use intelligence, housing potential, flood/green-space analysis |
-| **Positioning** | Proposition **B** — urban impact ([PRODUCT_SCOPE.md](./PRODUCT_SCOPE.md)) |
+| **Positioning** | Proposition **B** — urban impact ([PRODUCT_SCOPE.md](../product/PRODUCT_SCOPE.md)) |
 | **Eligibility** | Organisational grant; nonprofit/civil society + city government; open-source obligations may apply |
 | **Action** | Explore Nairobi/Kiambu municipal partner + eligible nonprofit consortium |
 
@@ -124,7 +124,7 @@ Validate with ≥2 developers, 1 architect, 1 QS.
 |----------|---------|
 | Pitch deck | Opportunity and team |
 | Product specification | Scope (this repository) |
-| Technical architecture | [ARCHITECTURE.md](./ARCHITECTURE.md), [TECH_STACK.md](./TECH_STACK.md) |
+| Technical architecture | [ARCHITECTURE.md](../architecture/ARCHITECTURE.md), [TECH_STACK.md](../engineering/TECH_STACK.md) |
 | Working prototype | R1 subset |
 | Market research | Kenya developer segment |
 | Pilot proposal | Named parcel or county pilot |
@@ -149,5 +149,5 @@ Track proptech, AI, built-environment, housing, and urban resilience programmes 
 
 ## Related documents
 
-- [PRODUCT_SCOPE.md](./PRODUCT_SCOPE.md)  
-- [TECH_STACK.md](./TECH_STACK.md)  
+- [PRODUCT_SCOPE.md](../product/PRODUCT_SCOPE.md)  
+- [TECH_STACK.md](../engineering/TECH_STACK.md)  

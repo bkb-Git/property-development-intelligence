@@ -252,5 +252,5 @@ Matches product scope “eight domains” to implementation layers:
 ## Related documents
 
 - [PIPELINES.md](./PIPELINES.md)  
-- [TECH_STACK.md](./TECH_STACK.md)  
-- [DATA_SOURCES.md](./DATA_SOURCES.md)  
+- [TECH_STACK.md](../engineering/TECH_STACK.md)  
+- [DATA_SOURCES.md](../data/DATA_SOURCES.md)  

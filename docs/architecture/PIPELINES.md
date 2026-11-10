@@ -180,4 +180,4 @@ LLM steps (explanation, questions, comp narrative) run inside Mastra between eng
 
 - [DESIGN_PROPOSAL_CONTRACT.md](./DESIGN_PROPOSAL_CONTRACT.md)  
 - [ARCHITECTURE.md](./ARCHITECTURE.md)  
-- [TECH_STACK.md](./TECH_STACK.md)  
+- [TECH_STACK.md](../engineering/TECH_STACK.md)  

@@ -105,6 +105,6 @@ Geometry tools run in **worker containers**, not on the Next.js server:
 
 ## Related documents
 
-- [DESIGN_PROPOSAL_CONTRACT.md](./DESIGN_PROPOSAL_CONTRACT.md)  
-- [TECH_STACK.md](./TECH_STACK.md)  
-- [PIPELINES.md](./PIPELINES.md)  
+- [DESIGN_PROPOSAL_CONTRACT.md](../architecture/DESIGN_PROPOSAL_CONTRACT.md)  
+- [TECH_STACK.md](../engineering/TECH_STACK.md)  
+- [PIPELINES.md](../architecture/PIPELINES.md)  

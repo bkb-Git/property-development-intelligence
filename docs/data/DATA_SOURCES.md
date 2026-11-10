@@ -143,6 +143,6 @@ Flag for human review when:
 
 ## Related documents
 
-- [PRODUCT_SCOPE.md](./PRODUCT_SCOPE.md)  
-- [ARCHITECTURE.md](./ARCHITECTURE.md)  
-- [OPEN_SOURCE_DESIGN_STACK.md](./OPEN_SOURCE_DESIGN_STACK.md)  
+- [PRODUCT_SCOPE.md](../product/PRODUCT_SCOPE.md)  
+- [ARCHITECTURE.md](../architecture/ARCHITECTURE.md)  
+- [OPEN_SOURCE_DESIGN_STACK.md](../design/OPEN_SOURCE_DESIGN_STACK.md)  

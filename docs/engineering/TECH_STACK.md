@@ -168,6 +168,6 @@ Mirror EpiCare `globalConfig.featureFlags` style:
 
 ## Related documents
 
-- [ARCHITECTURE.md](./ARCHITECTURE.md)  
-- [PIPELINES.md](./PIPELINES.md)  
-- [OPEN_SOURCE_DESIGN_STACK.md](./OPEN_SOURCE_DESIGN_STACK.md)  
+- [ARCHITECTURE.md](../architecture/ARCHITECTURE.md)  
+- [PIPELINES.md](../architecture/PIPELINES.md)  
+- [OPEN_SOURCE_DESIGN_STACK.md](../design/OPEN_SOURCE_DESIGN_STACK.md)  

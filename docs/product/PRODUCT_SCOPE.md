@@ -97,7 +97,7 @@ Eight interconnected domains (shared property model throughout):
 | **Financial intelligence** | GDV, cash flow, IRR, funding, residual land value |
 | **Risk intelligence** | Sensitivity, scenarios, confidence, hard stops |
 
-See [ARCHITECTURE.md](./ARCHITECTURE.md) for engines vs modules vs agents.
+See [ARCHITECTURE.md](../architecture/ARCHITECTURE.md) for engines vs modules vs agents.
 
 ---
 
@@ -111,7 +111,7 @@ Hierarchical taxonomy—not flat “residential”:
 - **Institutional** — schools, hospitals, community facilities
 - **Land / urban communities** — subdivision, TOD, regeneration, integrated neighbourhoods
 
-Each type carries distinct economics, design constraints, market indicators, and regulatory hooks. Full tree: [ONTOLOGY.md](./ONTOLOGY.md).
+Each type carries distinct economics, design constraints, market indicators, and regulatory hooks. Full tree: [ONTOLOGY.md](../architecture/ONTOLOGY.md).
 
 ---
 
@@ -175,7 +175,7 @@ Deterministic appraisal across:
 - **Financial** — build-to-sell, build-to-hold, mixed; GDV, TDC, IRR, NPV, cash shortfall warnings
 - **Funding** — equity, debt, JV, off-plan, mezzanine; drawdown timing
 
-Details in [ARCHITECTURE.md](./ARCHITECTURE.md) and [PIPELINES.md](./PIPELINES.md).
+Details in [ARCHITECTURE.md](../architecture/ARCHITECTURE.md) and [PIPELINES.md](../architecture/PIPELINES.md).
 
 ---
 
@@ -247,7 +247,7 @@ Structured for investment committees—not chat prose.
 
 **Conclusion:** Category exists (TestFit + Archistar combine feasibility + generative design). **Gap:** unified Kenya-specific regulatory + acquisition + evidence + neighbourhood-quality advisory with design/finance **pipeline separation**.
 
-Integrate paid tools optionally later; default **open-source geometry path**: [OPEN_SOURCE_DESIGN_STACK.md](./OPEN_SOURCE_DESIGN_STACK.md).
+Integrate paid tools optionally later; default **open-source geometry path**: [OPEN_SOURCE_DESIGN_STACK.md](../design/OPEN_SOURCE_DESIGN_STACK.md).
 
 ---
 
@@ -281,7 +281,7 @@ One real parcel (e.g. Ruaka / Ruiru), three concepts (apartment-led, courtyard e
 
 ## Funding summary
 
-Three positioning lenses from one platform—see [FUNDING_PIPELINE.md](./FUNDING_PIPELINE.md):
+Three positioning lenses from one platform—see [FUNDING_PIPELINE.md](../funding/FUNDING_PIPELINE.md):
 
 | Lens | Audience | Hook |
 |------|----------|------|
@@ -303,8 +303,8 @@ Requires proprietary transaction comparables and outcome feedback loop (predicte
 
 ## Related documents
 
-- [ARCHITECTURE.md](./ARCHITECTURE.md)  
-- [PIPELINES.md](./PIPELINES.md)  
-- [DESIGN_PROPOSAL_CONTRACT.md](./DESIGN_PROPOSAL_CONTRACT.md)  
-- [TECH_STACK.md](./TECH_STACK.md)  
-- [FUNDING_PIPELINE.md](./FUNDING_PIPELINE.md)  
+- [ARCHITECTURE.md](../architecture/ARCHITECTURE.md)  
+- [PIPELINES.md](../architecture/PIPELINES.md)  
+- [DESIGN_PROPOSAL_CONTRACT.md](../architecture/DESIGN_PROPOSAL_CONTRACT.md)  
+- [TECH_STACK.md](../engineering/TECH_STACK.md)  
+- [FUNDING_PIPELINE.md](../funding/FUNDING_PIPELINE.md)  
